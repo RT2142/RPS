@@ -25,5 +25,6 @@ The NPC will automatically pick an option when the user selects an option.
 The NPC’s selection will be represented by a large picture. 
 The User will be able to see who won, the game will follow the same rules as traditional rock paper scissors. 
 Users can view how many times they have won or lost
+Add 3 buttons in the beginning to show what kind of match they want to play. A button will be added that when pressed, will show the instructions on how to play and how the game works.
 
 
