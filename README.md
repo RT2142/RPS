@@ -2,8 +2,10 @@
 Team Name: Team T.R.S
   
 
-Team members: Taha Asim, Section B lab01, taha1@my.yorku.ca
+Team members:               Taha Asim, Section B lab01, taha1@my.yorku.ca
+                            
                             Ravi Trivedi, Section B lab01, ravit21@my.yorku.ca
+                            
                             Shireen Sharma, Section B lab01, shireens@my.yorku.ca
 
 
