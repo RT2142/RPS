@@ -1,8 +1,8 @@
 # RPS
 Team Name: Team T.R.S
   
-
-Team members:               Taha Asim, Section B lab01, taha1@my.yorku.ca
+          
+                            Taha Asim, Section B lab01, taha1@my.yorku.ca
                             
                             Ravi Trivedi, Section B lab01, ravit21@my.yorku.ca
                             
@@ -22,7 +22,7 @@ Users can view this game in their browser
 
 Users can select a username between 4 to 12 characters
 
-Users can input their username to begin the game
+Users can input their username to begin the game through prompt box.
 
 Users can select to play  best out of, 1, 3 or 5.
 
