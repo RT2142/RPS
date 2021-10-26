@@ -20,26 +20,29 @@ We are using HTML, CSS and JavaScript.
 
 Users can view this game in their browser
 
+There will also be an option for player vs player game. 
+
+Player One will get the chance to enter his name first and Player two will get his chance afterwards.
+
 Users can select a username between 4 to 12 characters
 
 Users can input their username to begin the game through prompt box.
 
-Users can select to play  best out of, 1, 3 or 5.
+Users can select to play  best out of, 1, 3 or 5 before the game begins.
 
 Users can view instructions of how to play when they select the number of rounds to play. 
 
-Users will be able to select one of three buttons to represent whether they wanna choose rock, paper or scissors.
+Users will be able to select one of three buttons to represent whether they wanna choose rock, paper or scissors below the bigger picture where your choice will be shown after you have finalized your choice.
 
 Users will see a large picture representing the option they choose.
 
-The NPC will automatically pick an option when the user selects an option.
+The NPC will automatically pick an option when the user selects an option and display it big.
 
-The NPC’s selection will be represented by a large picture. 
+The User will be able to see who won through an alert box which will pop up right after the a player wins, the game will follow the same rules as traditional rock paper scissors. 
 
-The User will be able to see who won, the game will follow the same rules as traditional rock paper scissors. 
-
-Users can view how many times they have won or lost
+Users can view how many times they have won or lost, the leaderboard will be shown on the side of the webpage.
 
 Add 3 buttons in the beginning to show what kind of match they want to play. A button will be added that when pressed, will show the instructions on how to play and how the game works.
+
 
 
