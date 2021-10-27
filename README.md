@@ -14,7 +14,7 @@ Rock Paper Scissors Project: This project is a recreation of the popular game, r
 
 To go into more detail, we will choose 6 pictures in total, 3 would be blue and the other 3 would be red. There will be two pictures of rock, two pictures of scissors and two pictures of paper. The blue team will have one rock, one scissor and one paper and same with the red team. We will start with an option of selecting what kind of match they want and their options would be to have a match of best of three, five, seven or nine. There will also be a button added on the side if the player needs instructions on how to play and . During the match, the player will click on the picture whether he wants to throw, once he has clicked, he will press the submit button to finalize his choice which will be shown through an enlarged picture. The NPC will choose something randomly as well and the winner of the round will be given a point.
 
-Functional requirements:
+**Functional requirements:**
 
 We are using HTML, CSS and JavaScript.
 
