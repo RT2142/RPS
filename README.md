@@ -28,7 +28,7 @@ Users can select a username between 4 to 12 characters
 
 Users can input their username to begin the game through prompt box.
 
-Users can select to play  best out of, 1, 3 or 5 before the game begins.
+Users can select to play best out of, 1, 3 or 5 before the game begins.
 
 Users can view instructions of how to play when they select the number of rounds to play. 
 
